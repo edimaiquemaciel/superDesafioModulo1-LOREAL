@@ -17,14 +17,15 @@ O projeto está organizado da seguinte forma:
 
 ## Demonstração
 * **Versão DESKTOP:**
+<div align="center">
 <img src="./assets/screencapture-loreal.png" width="90%">
-
+</div><br><br>
 
 * **Versão MOBILE:**
-<div>
-<img src="./assets/mobile1.jpeg" width="20%">
-<img src="./assets/mobile2.jpeg" width="20%">
-</div><br><br>
+<p align="center" width="100%">
+  <img src="./assets/mobile1.jpeg" width="20%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/mobile2.jpeg" width="20%">
+</p><br><br>
 
 * **Você pode visualizar uma versão ao vivo do site através do seguinte link: [Demonstração Página L'Oréal Paris](https://edimaiquemaciel.github.io/superDesafioModulo1-LOREAL)**
 
